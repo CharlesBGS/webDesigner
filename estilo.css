@@ -4,11 +4,20 @@
     margin: 0 auto;
 }
 
+.redeSocial {
+    background-color: rgb(158, 70, 241);
+}
+
 .redeSocial ul {
     display: flex;
     justify-content: flex-end;
+    margin: 10px;
 }
 
 .menu {
 
+}
+
+.banner {
+    
 }
